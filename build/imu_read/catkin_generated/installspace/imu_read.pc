@@ -1,0 +1,8 @@
+prefix=/home/desecy/catkin_ws/install
+
+Name: imu_read
+Description: Description of imu_read
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

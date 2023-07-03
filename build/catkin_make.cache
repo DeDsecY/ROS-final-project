@@ -1,0 +1,2 @@
+camera_read:imu_read:odom_read:pcl_read
+-DCATKIN_DEVEL_PREFIX=/home/desecy/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/desecy/catkin_ws/install -G Unix Makefiles

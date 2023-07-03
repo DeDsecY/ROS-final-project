@@ -1,0 +1,8 @@
+prefix=/home/desecy/catkin_ws/install
+
+Name: camera_read
+Description: Description of camera_read
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

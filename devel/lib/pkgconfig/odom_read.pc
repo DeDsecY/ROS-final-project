@@ -1,0 +1,8 @@
+prefix=/home/desecy/catkin_ws/devel
+
+Name: odom_read
+Description: Description of odom_read
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
